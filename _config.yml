@@ -8,11 +8,11 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive Fork"
+title: "Ateneo Lingua Ars Cultura"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Bridging Cultures. Celebrating the Arts. Experiencing languages"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -39,6 +39,8 @@ urlimg: "http://henshinger.github.io/feeling-responsive/images/"
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
+
+small_logo: "icon.png" 
 
 
 # Paginates all X entries
@@ -68,6 +70,7 @@ exclude:
     - LICENSE
     - README.md
 
+encoding: "utf-8"
 
 #
 #       ____       ____            ____ 
@@ -155,8 +158,8 @@ msapplication_tilecolor:                "#fabb00"
 og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
 og_locale:                          "en_EN"
 og_type:                            "website"
-og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
-og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
+og_title:                           "Ateneo Lingua Ars Cultura"
+og_description:                     "Bridge Cultures. Experience Languages. Celebrate the Arts."
 # og_url:                           ""
 # og_site_name:                     ""
 
@@ -222,3 +225,4 @@ google_analytics_tracking_id: UA-60112281-1
 # used in _includes/footer_scripts.html
 
 # tawkto_embed_uri: 
+

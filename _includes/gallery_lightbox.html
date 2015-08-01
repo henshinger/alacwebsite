@@ -1,0 +1,14 @@
+<ul class="clearing-thumbs small-block-grid-{{page.gallery-columns | default: 3}}" data-clearing data-equalizer>
+    {% for gallery_hash in site.data.galleries %}
+    {% assign gallery = gallery_hash[1] %}
+        {% if gallery.id == page.gallery-id %}
+            {% for image in gallery.images %}
+                <li data-equalizer-watch>
+                   <a href="{{ image.filename }}">
+                        <img src="{{ image.filename }}" data-caption="{{ image.alttext }}">
+                    </a>
+                </li>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+</ul>

@@ -3,7 +3,17 @@
   <nav class="top-bar" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="{{ site.url }}{{ site.baseurl }}" class="icon-tree"> {{ site.title }}</a></h1>
+      <h1 class="show-for-small-only">
+          <a href="{{ site.url }}{{ site.baseurl }}">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.small_logo }}" alt="{{ site.title }} – {{ site.slogan }}" style="max-height: 40px;margin-top: -8px;" />
+            {{ site.title }}
+              
+          </a>
+          
+      </h1>
+      <a href="{{ site.url }}{{ site.baseurl }}" class="hide-for-small-only">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}" style="max-height: 40px;margin-top:4px;" />
+      </a>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
