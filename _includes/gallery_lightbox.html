@@ -1,11 +1,11 @@
-<ul class="clearing-thumbs small-block-grid-{{page.gallery-columns | default: 3}}" data-clearing data-equalizer>
+<ul class="clearing-thumbs small-block-grid-{{page.gallery-columns | default: 3}}" data-clearing>
     {% for gallery_hash in site.data.galleries %}
     {% assign gallery = gallery_hash[1] %}
         {% if gallery.id == page.gallery-id %}
             {% for image in gallery.images %}
-                <li data-equalizer-watch>
-                   <a href="{{ image.filename }}">
-                        <img src="{{ image.filename }}" data-caption="{{ image.alttext }}">
+                <li>
+                   <a href="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image.filename | uri_escape }}&container=focus&resize_w=750">
+                        <img src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image.filename | uri_escape }}&container=focus&resize_h=250" data-caption="{{ image.alttext }}">
                     </a>
                 </li>
             {% endfor %}
