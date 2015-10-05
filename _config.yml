@@ -21,12 +21,12 @@ description: "The Ateneo Lingua Ars Cultura seeks to bridge, experience, and cel
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://henshinger.github.io/feeling-responsive"
+url: "https://ateneolac.github.io/alacwebsite"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/henshinger/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/ateneolac/alacwebsite/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash.
@@ -34,7 +34,7 @@ improve_content: https://github.com/henshinger/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://henshinger.github.io/feeling-responsive/images/"
+urlimg: "http://ateneolac.github.io/alacwebsite/images/"
 
 
 # Logo size is 600x80 pixels
