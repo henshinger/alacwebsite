@@ -16,7 +16,7 @@ slogan: "Bridging Cultures. Celebrating the Arts. Experiencing languages"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette."
+description: "The Ateneo Lingua Ars Cultura seeks to bridge, experience, and celebrate the diversity of the world through festive and experiential activities that broaden the knowledge of languages, deepen the appreciation of arts, and extend the borders of local and foreign culture."
 
 
 # This URL is the main adresse. Don't include a slash at the end.
@@ -136,15 +136,15 @@ defaults:
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          "favicon-32x32.png"
-touch-icon-192x192:                     "apple-touch-icon-precomposed.png"
-apple-touch-icon-180x180-precomposed:   "apple-touch-icon-180x180.png"
-apple-touch-icon-152x152-precomposed:   "apple-touch-icon-152x152.png"
-apple-touch-icon-144x144-precomposed:   "apple-touch-icon-144x144.png"
-apple-touch-icon-120x120-precomposed:   "apple-touch-icon-120x120.png"
-apple-touch-icon-114x114-precomposed:   "apple-touch-icon-114x114.png"
-apple-touch-icon-76x76-precomposed:     "apple-touch-icon-76x76.png"
-apple-touch-icon-72x72-precomposed:     "apple-touch-icon-72x72.png"
-apple-touch-icon-precomposed:           "apple-touch-icon-precomposed.png"
+touch-icon-192x192:                     "apple-icon-precomposed.png"
+apple-touch-icon-180x180-precomposed:   "apple-icon-180x180.png"
+apple-touch-icon-152x152-precomposed:   "apple-icon-152x152.png"
+apple-touch-icon-144x144-precomposed:   "apple-icon-144x144.png"
+apple-touch-icon-120x120-precomposed:   "apple-icon-120x120.png"
+apple-touch-icon-114x114-precomposed:   "apple-icon-114x114.png"
+apple-touch-icon-76x76-precomposed:     "apple-icon-76x76.png"
+apple-touch-icon-72x72-precomposed:     "apple-icon-72x72.png"
+apple-touch-icon-precomposed:           "apple-icon.png"
 msapplication_tileimage:                "ms-icon-144x144.png"               # Size 144x144
 msapplication_tilecolor:                "#000000"
 

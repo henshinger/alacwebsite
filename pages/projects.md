@@ -17,9 +17,7 @@ permalink: "/projects/"
     <div>
         <img src="http://static.wixstatic.com/media/262728_7d0d0e857906408ab557e0ed1a7b2210.jpg" style="max-height: 80%;" />
         <h3>Turuan Program</h3>
-        <p>Bonjour! Hallo! Hola! Ni Hao! Konichiwa! Annyeong!</p>
-        <p>Learn and experience foreign languages such as French, german, Spanish, Chinese, Japoanese and Jorean in this year-long program open to the Ateneo community. Whether you are an FLC student who wants to enhance your skills or simply a language enthusiast changgeling your inner linguist, this program is for you! Come join us as we experience the world's languages!</p>
-        
+        <p>The  Turuan  program  achieves  one  of  the  organization's  core  competencies,  experiencing languages, through its month-long foreign language tutoring program opened for both ALAC and non-ALAC   members.   The   program   aims   to   adept   the   culture   enthusiasts   with   the   beginner   and intermediate level of  Mandarin,  Japanese,  Korean,  French,  Spanish,  and  German.  With the help  of the Ateneo Modern  Language Department, all tutors  undergo careful screening  process and only the qualified set of tutors get to teach for a semester.</p>
     </div>
     <div>
         <img src="http://static.wixstatic.com/media/262728_5f0dc48105c047e58751bc5fd32efcdf.jpg" style="max-height: 80%;" />
@@ -29,23 +27,22 @@ permalink: "/projects/"
     <div>
         <img src="http://static.wixstatic.com/media/262728_bbe8f9eff62747158bb9e249b36a4c58.jpg" style="max-height: 80%;" />
         <h3>Tambay Week </h3>
-        <p>Kablaaw! Ngane’y ngadan mu? Duwa ta? Halina at magsaya tayo!</p>
-        <p>Join the ALACada in this weeklong ebent to meet, bond and have fun with fellow ALACholics as we celebrate Buwan ng Wika! get to know more about teh Fiulipino culture and heritage through various local games and activities that bring out the Filipino in  you! Get ready for surprises as we bring you this year's ALAC merchandise! Kita kits!</p>    
+        <p>Tambay Week is a whole week event that allows members of the organization to interact and bond  with  fellow  members  and  the  ExeCom.  Individual  consultations  are  also  held  throughout  the week  for  the  department  heads  to  catch  up  with  their  members  regarding  their  status  within  the  first semester.</p>
     </div>
     <div>
         <img src="http://static.wixstatic.com/media/262728_695496ad45284f8bab4662060c7652f2.jpg" style="max-height: 80%;" />
         <h3>ALACAD: Minitrip Series</h3>
-        <p>Dive into the arts and discover cultural treasure that are right under our noses! Explore and appreciate different art forms through various exhibits and installations within the Metro. Join our one-day road trip to different places that have yet to be seen, museums that have yet to be visited, and cultural landmarks that have yet to be explored! Take the ALACad with us!</p>
+        <p>The Mini Trip series is a whole day excursion event that allows Ateneans to experience local and  foreign  cultures  present  within  Metro  Manila.  It  is  held  once  every  semester  and  is  mainly comprised of visiting significant historical sites and museums.</p>
     </div>
     <div>
         <img src="http://static.wixstatic.com/media/262728_1ea029df54c62dd8c4e0f80eaa123f43.png" style="max-height: 80%;" />
         <h3>ALACaroling</h3>
-        <p>Feel the Christmas cheer as early as September by joining teh ALACfamily in this year's ALACaroling! Share your talents in singing and playing teh instruments to celebrtae the Yuletid season. Belt out your love for music as we showcase teh world cultures bu singing Christmas carlos in different languages in different households. Grab your Santa hats and hop on the sleigh!</p>
+        <p>The  ALACaroling  is  a  night  of  event  held  during  the  holiday  season  to  showcase  the numerous translations for well-known Christmas carols around the world. The carols, featuring various foreign languages, are performed by the members in the volunteered homes of hosts who are willing to accommodate the carolers. The event seeks to spread the warmth and sense of belonging in the community.</p>
     </div>
     <div>
-        <img src="http://static.wixstatic.com/media/262728_3da1ca06518f4d28b25c7dae21517e5d.jpg" style="max-height: 80%;" />
-        <h3>International Festival: South America</h3>
-        <p>Take a trip to South America without having to buy a ticket and hopping on a plane! Discover the continet's colorful history and culture through various interactive activities. Join us as we celebrate local food, art, music, and traditions in this year's first weeklong international festival. Travel light as we backpack across South America!</p>
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" style="max-height: 80%;" />
+        <h3>National Festival</h3>
+        <p>The  National  Festival  is  a  newly  established  project  that  holds  great  potential  and expectation  as  an  event  that  will  promote  beautiful  yet  unknown  culture  of  many  parts  of  the Philippines. This year, the festival features art, food, music, and different forms of culture in Mindanao. It will be an avenue of understanding and appreciation of cultural aspects on the flipside of all the political issues of the region</p>
     </div>
     <div>
         <img src="http://static.wixstatic.com/media/262728_30c16a86fc7c41a69b2736e2924c442a.jpg" style="max-height: 80%;" />
@@ -54,7 +51,7 @@ permalink: "/projects/"
     </div>
     <div>
         <img src="http://static.wixstatic.com/media/262728_8aefa0b1794342e1a259bbadf9b1fd64.jpg" style="max-height: 80%;" />
-        <h3>International Festival: South East Asia</h3>
+        <h3>International Festival</h3>
         <p>Think you know what this side of Asia has to offer? Think again. Join ALAC as we explore the mystical temples of Thailand and Cambodia, the scenic views of Vietnam, and the mesmerizing sights of Malaysia and Indonesia. Come experience its hidden gems and rediscover what mkes Southeast Asia truly vibrant and exotic!</p>
     </div>
     <div>
@@ -70,11 +67,11 @@ permalink: "/projects/"
     <div>
         <img src="http://static.wixstatic.com/media/262728_d43fd70672ca437685204d631659ba65.jpg" style="max-height: 80%;" />
         <h3>General Executive Training Program</h3>
-        <p>Think you have what it takes to be a leader? GET ready and step up to the challenge! Attend the information session to get to know more about the funstions and responsibilites of each officer in the Executive Committee, hype up your A game in a whole-day leadership training program and listen to inspiring leaders through their workshops. Don't miss this chance to bring out the leader in you!</p>
+        <p>  General  Executive  Training  (GET)  program  is  held  during  the  second  semester  for mentees and aspiring ExeCom members to have an information session and training program held by the incumbent ExeCom members. The information session gives a greater insight into the functions and  responsibilities  of  each  officer while the  whole-day  training  program  allows  team  building  and leadership enhancement</p>
     </div>
     <div>
         <img src="http://static.wixstatic.com/media/262728_e0645eaa65164961a817361f7b425453.jpg" style="max-height: 80%;" />
         <h3>ARTiculation</h3>
-        <p>Let your local artists take the stage! This one-night event, open to the Ateneo community, showcases a particular aspect of the Philippine art industry every year. get to know and interact with the field experts and industry profesionals through a talk and a mixer with complimentary food and drinks! Come and listen to these experts. ARTIculate about their experiences!</p>
+        <p>ARTiculation  aims  to  celebrate  the  arts  with  and  within  the  Ateneo  community.  While  mainly focusing  on  the  local  art industry,  the  event  shows  glimpses  of  hybrid  product  of the  combined  local and   foreign   art   endeavors   in   our   country   today.   The   organization   invites   speakers   who   are practitioners of their craft to discuss the intricacies of their passion with the Ateneo community.</p>
     </div>
 </div>

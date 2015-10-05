@@ -1,0 +1,71 @@
+- name: 'Ha Som "Emillie" Lee'
+  position: President
+  photo: "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11224266_1599922966925056_8147580399617625405_n.jpg?oh=937eb0b72ac8322463ae45f714c2ee72&oe=56766395"
+  course: "4 BS MGT"
+  fblink: "emulotsz.pluie"
+
+- name: 'Raelene Tang'
+  position: Finance Officer
+  photo: "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/11822351_10204825400749211_4239894544049612023_n.jpg?oh=756b51d99bdeb4f409f335052c84cfe3&oe=5645E5E9"
+  course: "3 AB LIT(ENG)"
+  fblink: "raelene.j.tang"
+
+- name: 'Lanz Quijano'
+  position: Vice President for Project Management
+  photo: "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/11866379_10203165490176595_5777621885410332876_n.jpg?oh=62fbf844385d8bdb224c77201715873f&oe=56782380&__gda__=1451240899_d73ddcd54584aff33a58cba78af65f41"
+  course: "4 BS MGT"
+  fblink: "lanz.quijano"
+  
+- name: 'Jenica Sy'
+  position: Associate Vice President for Project Management
+  photo: "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtf1/v/l/t1.0-9/11870765_10153507825932086_8084001950473950777_n.jpg?oh=3c48804792759c94fd9ec2f4938305e9&oe=56745205"
+  course: "2 BS Lf Sci"
+  fblink: "j.sy1996"
+
+- name: 'Kenley Earl Tan'
+  position: Associate Vice President for Information Management and Acting Secretary-General
+  photo: "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/11825225_10204679641812067_8548534562819624917_n.jpg?oh=3ac3bbbf8ca87cf544de48b416f8960f&oe=567A0EE5"
+  course: "3 BS ITE"
+  fblink: "kenley.earl.tan"
+
+- name: 'Kyla Tinio'
+  position: Associate Vice President for Publications
+  photo: "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11866256_1035388996472243_2776911713047830256_n.jpg?oh=b774827acf9eeec2c7a46850501ef767&oe=563B21D2"
+  course: "3 BS CTM"
+  fblink: "kyla.tinio"
+
+- name: 'Stephanie Gorospe'
+  position: Associate Vice President for Documentations
+  photo: "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/11836875_10206274204488119_2113017927429940292_n.jpg?oh=a92c4095b3683d79a785a97b769d0202&oe=563617C9&__gda__=1446763190_b54a95b707533c8abda8d7264350c196"
+  course: "4 BS ITE"
+  fblink: "stef.gorospe"
+  
+- name: 'Vincent Floro'
+  position: Vice President for Human Resources
+  photo: "https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11836812_10153123955093123_755833614912540602_n.jpg?oh=49bf25c22271716f2f0ed63b81ad4710&oe=56392FD5"
+  course: "4 BS MGT"
+  fblink: "vinceee94"
+
+- name: 'Jamiessonn Carlo Lao'
+  position: Associate Vice President for Organization Development
+  photo: "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11873352_10205982385333421_8439215271190967956_n.jpg?oh=6e8ba9012a7c5c198fa16e127b9e80d8&oe=5649B8DB"
+  course: "3 BS ITE"
+  fblink: "jamiessonn"
+
+- name: 'Winona Lim'
+  position: Associate Vice President for Member Management
+  photo: "https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xft1/v/t1.0-9/11828800_10207114838578897_4544902315464986431_n.jpg?oh=a833458881d29d569f39d0ed81b56c22&oe=564A6EAF&__gda__=1446546269_b5453291f76d3014a8e8c0f7102ad336"
+  course: "2 BS ITE"
+  fblink: "winona.lim"
+
+- name: 'Yerin Choi'
+  position: Vice President for External Relations
+  photo: "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11870705_902503989785229_4439275466915255799_n.jpg?oh=3b0afbf2fffd6c2611177fe50a9614c8&oe=56736F35"
+  course: "3 BS MGT"
+  fblink: "yerin.choi222"
+
+- name: 'Alyana Olivar'
+  position: Associate Vice President for External Affairs
+  photo: "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/11831671_10204686896593383_6436908466850294760_n.jpg?oh=da62bc42a39b087268a605ffa98d7f1d&oe=567D4C60"
+  course: "3 BFA CW"
+  fblink: "alyana.olivar"

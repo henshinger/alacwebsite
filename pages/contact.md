@@ -10,12 +10,12 @@ permalink: "/contact/"
 ---
 
 <div class="row">
-    <div class="medium-5 columns">
+    <div class="medium-12 columns">
         <div class="row">
-            <div class="small-2 columns">
+            <div class="small-1 columns">
                 <i class="fi-marker" style="color:#DF1331;font-size:3.5em;"></i>
             </div>
-            <div class="small-10 columns">
+            <div class="small-11 columns">
                 <p>
                     Room 315 Manuel V. Pangilinan Center for Student Leadership, <br />
                     Ateneo de Manila University, <br />
@@ -25,56 +25,29 @@ permalink: "/contact/"
             </div>
         </div>
         <div class="row">
-            <div class="small-2 columns">
+            <div class="small-1 columns">
                 <i class="fi-telephone" style="color:#4CD1A7;font-size:2.5em;"></i>
             </div>
-            <div class="small-10 columns">
-               <p style="font-size: 1.5em; margin-top:2%;">426-6001 Local 5437</p>
+            <div class="small-11 columns">
+               <p style="font-size: 1.5em; margin-top:1%;">426-6001 Local 5437</p>
             </div>
         </div>
         <div class="row">
-            <div class="small-2 columns">
+            <div class="small-1 columns">
                 <i class="fi-mail" style="color:#D4AD42;font-size:2.5em;"></i>
             </div>
-            <div class="small-10 columns">
-               <p style="font-size: 1.5em; margin-top:2%;">ateneolac@yahoo.com</p>
+            <div class="small-11 columns">
+               <p style="font-size: 1.5em; margin-top:1%;">ateneolac@yahoo.com</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-1 columns">
+                <i class="fi-mail" style="color:#D4AD42;font-size:2.5em;"></i>
+            </div>
+            <div class="small-11 columns">
+               <p style="font-size: 1.5em; margin-top:1%;">ateneolac.marketing@gmail.com</p>
             </div>
         </div>
     </div>
-    <div class="medium-5 columns">
-        <form action="//formspree.io/kenleytan@yahoo.com" method="POST">
-          <div class="row">
-            <div class="medium-12 columns">
-              <label>Name
-                <input type="text" placeholder="Name" name="name" />
-              </label>
-            </div>
-          </div>
-          <div class="row">
-            <div class="medium-12 columns">
-              <label>Email
-                <input type="email" placeholder="Email" name="_replyto" />
-              </label>
-            </div>
-          </div>
-          <div class="row">
-            <div class="medium-12 columns">
-              <label>Subject
-                <input type="text" placeholder="Subject" name="subject" />
-              </label>
-            </div>
-          </div>
-          <div class="row">
-            <div class="medium-12 columns">
-              <label>Message
-                <textarea placeholder="Message" name="message"></textarea>
-              </label>
-            </div>
-          </div>
-          <input type="hidden" name="_subject" value="New contact!" />
-          <input type="hidden" name="_cc" value="kenley@kalibrr.com" />
-          <input type="text" name="_gotcha" style="display:none" />
-          <input type="submit" class="button" value="Send" />
-        </form>
-    </div>
+    
 </div>
