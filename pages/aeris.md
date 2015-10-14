@@ -6,7 +6,7 @@ subheadline: "Bridge Cultures. Celebrate the Arts. Experience Languages"
 permalink: "/about/aeris/"
 ---
 
-<img src="https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/12003140_846492185448448_8474955815858902665_n.jpg?oh=1b76372abf19781979153e7f1fa03a3e&oe=56A3A21C" />
+<img style="display:block;margin:auto" src="https://cloud.githubusercontent.com/assets/1387307/10487379/43a139a8-72c6-11e5-92d7-0caccd94b5f5.jpg" />
 
 
 ## Who is Aeris?
