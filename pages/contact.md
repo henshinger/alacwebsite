@@ -48,6 +48,22 @@ permalink: "/contact/"
                <p style="font-size: 1.5em; margin-top:1%;">ateneolac.marketing@gmail.com</p>
             </div>
         </div>
+        <div class="row">
+            <div class="small-1 columns">
+                <i class="fi-social-facebook" style="color:#3b5998;font-size:2.5em;"></i>
+            </div>
+            <div class="small-11 columns">
+               <p style="font-size: 1.5em; margin-top:1%;"><a href="https://www.facebook.com/ateneolac">fb.com/ateneolac</a></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-1 columns">
+                <i class="fi-social-twitter" style="color:#55ACEE;font-size:2.5em;"></i>
+            </div>
+            <div class="small-11 columns">
+               <p style="font-size: 1.5em; margin-top:1%;"><a href="https://twitter.com/ateneolac">@ateneolac</a></p>
+            </div>
+        </div>
     </div>
     
 </div>
