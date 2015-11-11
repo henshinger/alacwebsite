@@ -4,9 +4,15 @@
         {% if gallery.id == page.gallery-id %}
             {% for image in gallery.images %}
                 <li>
-                   <a href="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image.filename | uri_escape }}&container=focus&resize_h=480">
-                        <img src="{{site.urlimg}}bg.png" data-src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image.filename | uri_escape }}&container=focus&resize_w={% if page.gallery-columns==2 %}250{% else %}200{% endif %}" title="{{ image.alttext }}">
-                    </a> 
+                    {% if page.no-google == true %}
+                        <a href="{{image.filename}}">
+                            <img src="{{site.urlimg}}bg.png" data-src="{{image.filename}}" title="{{ image.alttext }}">
+                        </a> 
+                    {% else %}
+                       <a href="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image.filename | uri_escape }}&container=focus&resize_h=480">
+                            <img src="{{site.urlimg}}bg.png" data-src="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url={{ image.filename | uri_escape }}&container=focus&resize_w={% if page.gallery-columns==2 %}250{% else %}200{% endif %}" title="{{ image.alttext }}">
+                        </a> 
+                    {% endif %}
                 </li>
             {% endfor %}
         {% endif %}
