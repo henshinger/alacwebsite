@@ -38,7 +38,7 @@ format: blog-index
 
     {% if page.widget-3.title %}
     <div class="medium-4 columns">
-        <a href="{% if page.widget-3.url contains 'http' %}{{ page.widget-3.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-3.url }}{% endif %}">{% if page.widget-3.image %}<img src="{{ site.urlimg }}/{{ page.widget-3.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-3.video %}{{ page.widget-3.video }}{% endif %}</a>
+        <!--<a href="{% if page.widget-3.url contains 'http' %}{{ page.widget-3.url }}{% else %}{{ site.url }}{{ site.baseurl }}/{{ page.widget-3.url }}{% endif %}">{% if page.widget-3.image %}<img src="{{ site.urlimg }}/{{ page.widget-3.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-3.video %}{{ page.widget-3.video }}{% endif %}</a>-->
         <a href="{{ page.widget-3.url }}">{% if page.widget-3.image %}<img src="{% unless page.widget-3.external_image %}{{ site.urlimg }}/{% endunless %}{{ page.widget-3.image }}" width="302" height="182" alt="">{% endif %}{% if page.widget-3.video %}{{ page.widget-3.video }}{% endif %}</a>
         <h2 class="font-size-h3 t10">{{ page.widget-3.title }}</h2>
         <p>{{ page.widget-3.text }}</p>

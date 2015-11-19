@@ -21,7 +21,7 @@ widget-2:
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://i.ytimg.com/vi/MHZVbgpCwv4/hqdefault.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Projects"
-    url: '/contact/'
+    url: '/projects/'
     text: '<em>Learn a new language?</em><br><em>Feeling Adventurous?</em><br><em>Curious About Other Cultures?</em><br>Check out what ALAC has in store for you.'
     image: https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?url=http://static.wixstatic.com/media/262728_ef45fa7d06ec4da9b7a192737cda9e1c.jpg&container=focus&resize_w=200
     external_image: true

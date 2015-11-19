@@ -4,7 +4,11 @@ title: "Ateneo Lingua Ars Cultura Executive Committee"
 permalink: "/about/execom/"
 
 ---
-
+<style>
+    header {
+        text-align: center;
+    }
+</style>
 <div>
     {% for member in site.data.execom %}
         {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
