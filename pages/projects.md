@@ -5,6 +5,11 @@ permalink: "/projects/"
 
 ---
 
+<style>
+    header {
+        text-align: center;
+    }
+</style>
 
 <div class="slick-slider-class" data-slick='{
   "infinite": true,
@@ -40,7 +45,7 @@ permalink: "/projects/"
         <p>The  ALACaroling  is  a  night  of  event  held  during  the  holiday  season  to  showcase  the numerous translations for well-known Christmas carols around the world. The carols, featuring various foreign languages, are performed by the members in the volunteered homes of hosts who are willing to accommodate the carolers. The event seeks to spread the warmth and sense of belonging in the community.</p>
     </div>
     <div>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" style="max-height: 80%;" />
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.black_logo }}" style="max-height: 80%;" />
         <h3>National Festival</h3>
         <p>The  National  Festival  is  a  newly  established  project  that  holds  great  potential  and expectation  as  an  event  that  will  promote  beautiful  yet  unknown  culture  of  many  parts  of  the Philippines. This year, the festival features art, food, music, and different forms of culture in Mindanao. It will be an avenue of understanding and appreciation of cultural aspects on the flipside of all the political issues of the region</p>
     </div>
@@ -52,7 +57,7 @@ permalink: "/projects/"
     <div>
         <img src="http://static.wixstatic.com/media/262728_8aefa0b1794342e1a259bbadf9b1fd64.jpg" style="max-height: 80%;" />
         <h3>International Festival</h3>
-        <p>Think you know what this side of Asia has to offer? Think again. Join ALAC as we explore the mystical temples of Thailand and Cambodia, the scenic views of Vietnam, and the mesmerizing sights of Malaysia and Indonesia. Come experience its hidden gems and rediscover what mkes Southeast Asia truly vibrant and exotic!</p>
+        <p>The International Festival is a week-long event that will be held on November 23-27, 2015.To expose the Ateneo community to Asian and European cultures, we have planned a fun filled week for everyone. Activities will include quiz bees, language challenges, arts and crafts activities (e.g. Mandala Making, Origami, Mask making and etc.),and various cultural workshops (e.g. Football, Bellydancing and Games). Various cultural institutes will also be present to help us in bringing these cultures closer to us. The aim is to garner an appreciation for these cultures through hands-on activities. This event  made possible in partnership with the Office of University and Global Relations and the Modern Languages department of the Ateneo de Manila University.</p>
     </div>
     <div>
         <img src="http://static.wixstatic.com/media/262728_68646c66ead2e056619b87079d91dc52.png" style="max-height: 80%;" />

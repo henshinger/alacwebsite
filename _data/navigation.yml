@@ -15,6 +15,9 @@
 - title: Projects
   url: '/projects/'
   side: left
+  dropdown:
+  - title: International Festival
+    url: "/projects/intfest/"
 
 - title: Blog
   url: "/blog/"

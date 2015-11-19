@@ -4,7 +4,11 @@ title: "Ateneo Lingua Ars Cultura Executive Departments"
 permalink: "/about/departments/"
 
 ---
-
+<style>
+    header {
+        text-align: center;
+    }
+</style>
 <div class="slick-slider-class" data-slick='{
   "dots": true,
   "infinite": true,
