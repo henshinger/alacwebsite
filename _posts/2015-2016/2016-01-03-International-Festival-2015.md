@@ -11,8 +11,8 @@ gallery-id: intfest2015
 gallery-columns: 3
 no-google: true
 image:
-    homepage: https://fbcdn-photos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-0/s417x417/10270706_892450377519295_6635349200855683997_n.jpg?oh=ca06954451e94699f30a8394d18db12f&oe=5747CDC5&__gda__=1460226168_a84b21968857699b8e4d296604fb7962
-    thumb: https://fbcdn-photos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-0/s417x417/10270706_892450377519295_6635349200855683997_n.jpg?oh=ca06954451e94699f30a8394d18db12f&oe=5747CDC5&__gda__=1460226168_a84b21968857699b8e4d296604fb7962
+    homepage: https://cloud.githubusercontent.com/assets/6336919/12118869/c3da7d5e-b403-11e5-9154-c2b2bf868673.jpg
+    thumb: https://cloud.githubusercontent.com/assets/6336919/12118869/c3da7d5e-b403-11e5-9154-c2b2bf868673.jpg
 external_image: true
 ---
 
